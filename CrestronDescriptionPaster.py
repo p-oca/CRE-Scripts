@@ -42,8 +42,6 @@ def main():
 
     print("Watchdog script ended.")
 
-# (The rest of your code remains the same)
-
 def get_original_string():
     root = tk.Tk()
     root.withdraw()
